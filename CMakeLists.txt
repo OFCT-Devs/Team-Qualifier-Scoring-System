@@ -1,6 +1,5 @@
-# https://towardsdatascience.com/how-to-create-a-c-project-using-ceres-solver-f3d67c8044f3
 cmake_minimum_required(VERSION 3.10.2)
-project(optimizer)
+project(ScoringSystem)
 
 add_executable(${PROJECT_NAME} main.cc)
 
